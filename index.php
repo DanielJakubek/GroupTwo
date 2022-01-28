@@ -15,11 +15,11 @@
     <nav class="navbar">
       <div class="container-fluid">
         <a class="navbar-brand" href="indexTwo.php" id="SustainNavImg">
-          <img src="AgileUnBW.png" alt="UnLogoSustainB&W" class="d-inline-block align-text-top">
+          <img src="Images/AgileUnBW.png" alt="UnLogoSustainB&W" class="d-inline-block align-text-top">
         </a>
         <form class="d-flex">
           <input class="form-control me-2" type="search" placeholder="Search. . ." aria-label="Search" id="searchForm">
-          <img src="Images\noteBook.png" alt="listNoteBook" class="d-inline-block align-text-top" id="noteBookPng">
+          <img src="Images/noteBook.png" alt="listNoteBook" class="d-inline-block align-text-top" id="noteBookPng">
         </form>
       </div>
     </nav>
@@ -39,13 +39,13 @@
                 <div class="carousel-item active">
                   <div class="row">
                     <div class="col-md-4">
-                      <img src="NoPoverttyBW.jpg" class="d-block w-100" alt="No Poverty">
+                      <img src="Images/NoPoverttyBW.jpg" class="d-block w-100" alt="No Poverty">
                     </div>
                     <div class="col-md-4">
-                      <img src="NoHungerBW.jpg" class="d-block w-100" alt="Zero Hunger">
+                      <img src="Images/NoHungerBW.jpg" class="d-block w-100" alt="Zero Hunger">
                     </div>
                     <div class="col-md-4">
-                      <img src="GoodHealthBW.jpg" class="d-block w-100" alt="...">
+                      <img src="Images/GoodHealthBW.jpg" class="d-block w-100" alt="...">
                     </div>
                   </div>
                 </div>
