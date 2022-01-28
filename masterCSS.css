@@ -1,0 +1,95 @@
+
+/* Navigation */
+#SustainNavImg{
+
+  margin: 0.35in;
+}
+
+nav img{
+  max-width: 40vh;
+}
+
+#noteBookPng{
+  max-width: 5vh;
+  margin-left: 25px;
+}
+
+nav #searchForm{
+  border: none;
+  border-bottom: black 3px solid;
+  width: 60%;
+}
+
+nav form{
+  margin-right: 20px;
+}
+
+
+/* Main content */
+.bg-image{
+  background-image: url('Images/bg2.png');
+  height: 400vh;
+}
+
+#intermissionArea{
+  height: 50vh;
+}
+
+/* Uses a semi-transparent img instead of using opacity */
+#carouselArea{
+  background-image: url('Images/sliderArea.png');
+  padding: 100px;
+
+}
+
+.carousel-item img{
+  border: 30px white solid;
+}
+
+.carousel-item img:hover{
+  border: 30px #C6025C solid;
+}
+
+.carousel-inner{
+  max-width: 83%;
+}
+
+#sliderCounter{
+  margin-top: 20px;
+}
+
+#sliderCounter button{
+  margin: 2px;
+  padding-left: 25px;
+  padding-top: 5px;
+}
+
+
+/* Footer */
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  opacity: 0.9;
+}
+
+footer .row{
+  padding-top: 15px;
+  height: 200px;
+}
+
+#copyrightText{
+  padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* */
