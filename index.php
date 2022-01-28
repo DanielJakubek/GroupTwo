@@ -9,13 +9,9 @@
     <title>Index</title>
   </head>
 
-
-<?php 
-
-    echo "<link rel="stylesheet" href="masterCSS.css">";
-
-?>
-
+  <?php
+  echo '<link rel="stylesheet" href="/masterCSS.css">';
+  ?>
 
 
 
